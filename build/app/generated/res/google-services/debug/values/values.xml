@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">123464303848</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvcIpfliTCIKV-3Il8ML--Kkn3Y2rHAYI</string>
+    <string name="google_app_id" translatable="false">1:123464303848:android:dcb1f8e3642d8c18b4755d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvcIpfliTCIKV-3Il8ML--Kkn3Y2rHAYI</string>
+    <string name="google_storage_bucket" translatable="false">movieticket-def85.firebasestorage.app</string>
+    <string name="project_id" translatable="false">movieticket-def85</string>
+</resources>
